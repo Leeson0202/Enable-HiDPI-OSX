@@ -10,19 +10,19 @@ How to use?
 Download the latest enable-HiDPI.sh by entering the following command in a terminal window:
 
 ``` sh
-curl -o ~/enable-HiDPI.sh https://raw.githubusercontent.com/syscl/Enable-HiDPI-OSX/master/enable-HiDPI.sh
+curl -o ./enable-HiDPI.sh https://ghproxy.com/https://raw.githubusercontent.com/syscl/Enable-HiDPI-OSX/master/enable-HiDPI.sh
 ```
 Download the latest restore program just in case the ```enable-HiDPI``` stall the system
 ```sh
-curl -o ~/restore https://raw.githubusercontent.com/syscl/Enable-HiDPI-OSX/master/restore
+curl -o ./restore https://ghproxy.com/https://raw.githubusercontent.com/syscl/Enable-HiDPI-OSX/master/restore
 ```
 
 
 This will download enable-HiDPI.sh and restore.sh to your home directory (~) and the next step is to change the permissions of the file (add +x) so that it can be run.
  
 ``` sh
-chmod +x ~/enable-HiDPI.sh
-chmod +x ~/restore
+chmod +x ./enable-HiDPI.sh
+chmod +x ./restore
 ```
 
 
