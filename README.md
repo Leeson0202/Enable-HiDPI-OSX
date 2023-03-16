@@ -10,11 +10,11 @@ How to use?
 Download the latest enable-HiDPI.sh by entering the following command in a terminal window:
 
 ``` sh
-curl -o ./enable-HiDPI.sh https://ghproxy.com/https://raw.githubusercontent.com/syscl/Enable-HiDPI-OSX/master/enable-HiDPI.sh
+curl -o ./enable-HiDPI.sh https://ghproxy.com/https://raw.githubusercontent.com/Leeson0202/Enable-HiDPI-OSX/master/enable-HiDPI.sh
 ```
 Download the latest restore program just in case the ```enable-HiDPI``` stall the system
 ```sh
-curl -o ./restore https://ghproxy.com/https://raw.githubusercontent.com/syscl/Enable-HiDPI-OSX/master/restore
+curl -o ./restore https://ghproxy.com/https://raw.githubusercontent.com/Leeson0202/Enable-HiDPI-OSX/master/restore
 ```
 
 
